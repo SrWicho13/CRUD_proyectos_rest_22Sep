@@ -1,0 +1,25 @@
+{
+  "name": "ejercicios_rest_mocha_chai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2",
+    "supertest": "^7.0.0"
+  }
+}
